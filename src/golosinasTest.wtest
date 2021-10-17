@@ -1,0 +1,11 @@
+import golosinas.*
+import mariano.*
+
+describe "Test para las golosinas" {
+
+	var choco = new Chocolatin(pesoInicial = 10)
+	var chocoVIP = new ChocolatinVIP(pesoInicial = 10)
+	var chocoPremium = new ChocolatinPremium(pesoInicial = 10)
+
+}
+
